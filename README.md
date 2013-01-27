@@ -26,6 +26,8 @@ blah
 
 Fix this & that
 
+---------------------------------------
+
 # Practice Markdown Syntax & vim-markdown-folding Plugin
 It's a good place to practice the following skill:
 * [syntax][Markdown-Syntax] of Markdown document, 
